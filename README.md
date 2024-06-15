@@ -1,2 +1,1 @@
-# email-detector
-this is my first git repository
+# python projects
